@@ -1,7 +1,7 @@
-# EcoMarket - Documentación de Funcionalidades
+# BioMarket - Documentación de Funcionalidades
 
 ## Descripción General
-EcoMarket es una página web de e-commerce dedicada a la venta de productos orgánicos y naturales, incluyendo frutas, verduras, granos, tubérculos, semillas, frutos secos, carnes y productos para mascotas (canes). La página está construida con HTML, CSS y JavaScript puro, sin dependencias externas.
+BioMarket es una página web de e-commerce dedicada a la venta de productos biológicos y naturales, incluyendo frutas, verduras, granos, tubérculos, semillas, frutos secos, carnes y productos para mascotas (canes). La página está construida con HTML, CSS y JavaScript puro, sin dependencias externas.
 
 ## Estructura de Archivos
 - `index.html`: Archivo principal HTML que contiene la estructura de la página
